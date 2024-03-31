@@ -19,7 +19,7 @@ in runCommand "home-manager" {
   meta = with lib; {
     mainProgram = "home-manager";
     description = "A user environment configurator";
-    maintainers = [ maintainers.rycee ];
+    maintainers = with maintainers; [ rycee Kareem-Medhat ];
     platforms = platforms.unix;
     license = licenses.mit;
   };

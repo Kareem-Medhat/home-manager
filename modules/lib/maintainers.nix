@@ -512,4 +512,10 @@
     github = "zorrobert";
     githubId = 118135271;
   };
+  Kareem-Medhat = {
+    name = "Kareem";
+    email = "kareemmedhatnabil@gmail.com";
+    github = "Kareem-Medhat";
+    githubId = 39652808;
+  };
 }
